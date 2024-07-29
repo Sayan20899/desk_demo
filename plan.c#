@@ -1,0 +1,12 @@
+ecommerce-platform/
+|-- app/
+|   |-- components/
+|   |   |-- product-list/
+|   |   |   |-- product-list.component.js
+|   |   |   |-- product-list.template.html
+|   |   |   |-- product-list.style.scss
+|-- index.html
+|-- app.module.js
+|-- app.config.js
+|-- package.json
+|-- gulpfile.js
