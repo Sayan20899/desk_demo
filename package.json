@@ -1,0 +1,17 @@
+{
+  "name": "ecommerce-platform",
+  "version": "1.0.0",
+  "description": "A simple e-commerce platform using AngularJS and SCSS",
+  "main": "index.html",
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {
+    "angular": "^1.8.2",
+    "angular-route": "^1.8.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0"
+  }
+}
